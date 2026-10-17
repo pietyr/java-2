@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:weather-observation xmlns:ns2="http://example.org/weather-observation">
-    <timeStamp>2026-10-13T08:58:33.911498583</timeStamp>
+    <timeStamp>2026-10-12T07:38:29.049455965</timeStamp>
     <unit>Celsius</unit>
-    <value>32.98432266065047</value>
+    <value>5.405530489501034</value>
+    <comment>Clear night</comment>
 </ns2:weather-observation>
